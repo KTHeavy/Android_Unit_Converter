@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="ounces">Ounces</string>
+    <string name="how_many_ounces">How many ounces?</string>
+    <string name="grams_g">Grams (g.)</string>
+    <string name="pounds_lbs">Pounds (lbs.)</string>
+    <string name="round_up_result">Round up result?</string>
+    <string name="convert">Convert</string>
+    <string name="conversion">Conversion: %s</string>
+</resources>
